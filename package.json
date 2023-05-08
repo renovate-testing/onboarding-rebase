@@ -1,5 +1,5 @@
 {
-"depndencies": {
-"xmldoc": "1.1.0"
-}
+  "depndencies": {
+    "json": "10.0.0"
+  }
 }
